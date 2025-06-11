@@ -37,7 +37,8 @@ Ensure PostgreSQL is running and accessible
 
 Explore the interactive visuals and insights
 
-📚 Notes
+Notes
+
 Ensure the PostgreSQL connector is installed in Power BI
 
 DirectQuery performance depends on database optimization
